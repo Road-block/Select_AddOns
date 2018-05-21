@@ -17,6 +17,12 @@ Some authored by me, some not, generally not maintained enough to have their own
   Decursive alternative, with sane exclusion lists built-in (Hakkar, Jin'do etc)
 - DragonTracker  
   Replaces the tracking blip on the minimap with a blinking dragon and removes other blips. Good for Hunters tracking Onyxia position in P2.
+- EkBomb  
+  Warnings for Bomb type raid debuffs.
+- EkRaidAttend  
+  Raid Attendance logger with import export. Can optionally work with EkWaitList for logging standby.
+- EkWaitList  
+  Standby raid list addon with main / alt support.
 - FuBar_GarbageFu  
   Inventory management with auto-sell, auto-destroy junk capabilities. Gets price information from several addons.
 - GFW_AdSpace  
