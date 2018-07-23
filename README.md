@@ -35,6 +35,8 @@ Some authored by me, some not, generally not maintained enough to have their own
   Loot and roll tracker.
 - MacroTips  
   #showtooltip replacement for showing spell, item or inventory slot tooltips in macros.
+- MrPlow  
+  Sorts stacks and defragments bags and bank.
 - NCCM_ForHunters  
   Nefarian Class Call for Hunters. Automatic weapon swap before hunter class call and swap back after it's done.
 - NCCM_ForPaladins  
