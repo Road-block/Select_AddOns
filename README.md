@@ -26,7 +26,7 @@ Some authored by me, some not, generally not maintained enough to have their own
 - EkWaitList  
   Standby raid list addon with main / alt support.
 - ES_GuildCheck  
-  Track and monitor guild roster changes.
+  Track and monitor guild roster changes. /egc for options
 - FuBar_GarbageFu  
   Inventory management with auto-sell, auto-destroy junk capabilities. Gets price information from several addons.
 - GFW_AdSpace  
