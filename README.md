@@ -17,6 +17,8 @@ Some authored by me, some not, generally not maintained enough to have their own
   Decursive alternative, with sane exclusion lists built-in (Hakkar, Jin'do etc)
 - DragonTracker  
   Replaces the tracking blip on the minimap with a blinking dragon and removes other blips. Good for Hunters tracking Onyxia position in P2.
+- EgoCast  
+  Intelligent auto-self-cast that doesn't interfere with addons that require the Blizzard self-cast option to be 'off'.
 - EkBomb  
   Warnings for Bomb type raid debuffs.
 - EkRaidAttend  
