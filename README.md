@@ -23,6 +23,8 @@ Some authored by me, some not, generally not maintained enough to have their own
   Raid Attendance logger with import export. Can optionally work with EkWaitList for logging standby.
 - EkWaitList  
   Standby raid list addon with main / alt support.
+- ES_GuildCheck  
+  Track and monitor guild roster changes.
 - FuBar_GarbageFu  
   Inventory management with auto-sell, auto-destroy junk capabilities. Gets price information from several addons.
 - GFW_AdSpace  
