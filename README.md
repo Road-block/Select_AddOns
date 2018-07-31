@@ -31,6 +31,8 @@ Some authored by me, some not, generally not maintained enough to have their own
   Inventory management with auto-sell, auto-destroy junk capabilities. Gets price information from several addons.
 - GFW_AdSpace  
   Adds information to recipe and token tooltips showing what class they are useful for or if they are vendor bought.
+- GuildEventManager2  
+  Allows you to create/schedule/manage future raid instance directly in-game. Players can register (join) and reserve a spot for your instance, or cancel subscription.
 - GuildReRank  
   Allows a guild leader to mass move guild members among ranks.
 - HotCandy  
