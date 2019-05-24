@@ -1,6 +1,8 @@
 # Select_AddOns
 Some authored by me, some not, generally not maintained enough to have their own repo.
 
+- Atlas + AtlasLoot + AtlasQuest + Fubar_AtlasFu  
+  BC backported versions of the map loot and quest database.
 - BugGrabber + BugSack (both needed)  
   Replacement for ImprovedErrorFrame, traps addon errors and lets you report the full callstack.
 - BadApples  
@@ -53,6 +55,8 @@ Some authored by me, some not, generally not maintained enough to have their own
   Automatically removes Blessing of Salvation and Blessing of Protection from warriors in defensive, druids in bear and paladins with RF up and a shield equipped.
 - RollTracker  
   Random roll tracking and announcing.
+- Sprocket  
+  Configurable radial popup menu for items/spells/consumables etc.
 - TankPoints  
   Warrior Tank survivability rating. It only measures "tankiness", not threat or other parts of the tanking role.
 - Tankalyze  
